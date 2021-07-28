@@ -29,6 +29,12 @@ Enter a or b and the led will accordingly turn On or Off.
 
 Refer pictures for the connections and the turning ON and turning OFF.
 
+Turn On instruction at Serial Terminal:
+![WhatsApp Image 2021-07-28 at 12 50 42](https://user-images.githubusercontent.com/80844300/127283805-a2401da3-8fde-47ae-bce1-bc6a7f12dade.jpeg)
+
+LED has thus turned ON:
+
+
 
 
 
